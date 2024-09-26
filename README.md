@@ -11,4 +11,4 @@ I'm a sophomore Computer Science, Mathematics, and Dual Degree Engineering Stude
 - Land my first internship
 - Make a full fledged Minecraft mod in Java
 - Create cool projects kinda
-- Get a job in the game industry
+- Get a job
