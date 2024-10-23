@@ -5,7 +5,7 @@ Here, you'll find my GitHub where I will be pushing my personal, and school proj
 ----
 I'm a sophomore Computer Science, Mathematics, and Dual Degree Engineering Student @ Augustana University. I'm currently a 3D artist and Graphic Designer professionally.
 
-- Skills: PYTHON / JAVA / C++ / HTML / CSS / JavaScript
+- Skills: PYTHON / JAVA / C++ / HTML / CSS / JavaScript / R
 #### Goals:
 ---
 - Land my first internship
