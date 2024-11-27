@@ -1,14 +1,13 @@
-### Sup, I code I guess sometimes. I'm Audit / Ari
+### hey, i code... my name is ari
 ------------------
-Here, you'll find my GitHub where I will be pushing my personal, and school projects to better my knowledge in programming, and hopefully meet more people that are more experienced
+i like to code and this is where i post it. look here for my progress on somethin if you're curious
 #### About me
 ----
 I'm a sophomore Computer Science and Mathematics Student 
 
-- Skills: PYTHON / JAVA / C++ / HTML / CSS / JavaScript / R
+- Skills: PYTHON / JAVA / C++ / C / HTML / CSS / JavaScript / R
 #### Goals:
 ---
-- Land my first internship
-- Make a full fledged Minecraft mod in Java
-- Create cool projects kinda
-- Get a job
+- land an internship
+- develop cool projects
+- be the best me (always improving)
