@@ -10,4 +10,5 @@ i'm a junior computer science and mathematics student @ augie ('27)
 ---
 - make my first game (probably roblox)
 - develop something useful
+- contribute to an open-source project that i find interesting
 - be the best me (always improving)
