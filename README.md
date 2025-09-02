@@ -1,4 +1,4 @@
-### hey, i code sometimes... my name is ari
+### hey, im ari, i be codin sometimes every now and then and stuff
 ------------------
 i like to code and this is where i post it. look here for my progress on somethin if you're curious
 #### About me
