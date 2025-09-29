@@ -1,14 +1,14 @@
-### hey, im ari, i be codin sometimes every now and then and stuff
+### hey, im radar
 ------------------
-i like to code and this is where i post it. look here for my progress on somethin if you're curious
+i like to code sometimes, so i post it here. if i made something u like, lmk and follow the development!
 #### About me
 ----
 i'm a junior computer science and mathematics student @ augie ('27)
 
-- skills: python / java / c /  c++ / javascript / 
+- skills: c/c++, python, javascript, java, luau
 #### Goals:
 ---
 - make my first game (probably roblox)
 - develop something useful
-- contribute to an open-source project that i find interesting
-- be the best me (always improving)
+- contribute to an open-source project
+- continue to always improve
