@@ -1,6 +1,4 @@
-<img width="1790" height="489" alt="image" src="https://github.com/user-attachments/assets/0d8e1edb-4d5e-4638-9e2d-f449e79a557e" />
-
-#i see you
+<img width="2868" height="950" alt="image" src="https://github.com/user-attachments/assets/cf8e7a9e-940a-4c32-868f-a29451b2bd3f" />
 
 computer science and mathematics student -- graphics engineer.
 
