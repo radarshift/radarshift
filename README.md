@@ -1,14 +1,7 @@
-### hey, im radar
-------------------
-i like to code sometimes, so i post it here. if i made something u like, lmk and follow the development!
-#### About me
-----
-i'm a junior computer science and mathematics student @ augie ('27)
+<img width="1790" height="489" alt="image" src="https://github.com/user-attachments/assets/0d8e1edb-4d5e-4638-9e2d-f449e79a557e" />
 
-- skills: c/c++, python, javascript, java, luau
-#### Goals:
----
-- make my first game (probably roblox)
-- develop something useful
-- contribute to an open-source project
-- continue to always improve
+#i see you
+
+computer science and mathematics student -- graphics engineer.
+
+i mostly keep assignments here, but i make some cool shit too.
