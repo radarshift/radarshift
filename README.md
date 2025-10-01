@@ -1,5 +1,4 @@
-<img width="2868" height="950" alt="image" src="https://github.com/user-attachments/assets/cf8e7a9e-940a-4c32-868f-a29451b2bd3f" />
+![SCR-20251001-itcf](https://github.com/user-attachments/assets/3ed33c68-b3f9-4d76-af94-088dcf440180)
 
-computer science and mathematics student -- graphics engineer.
 
-i mostly keep assignments here, but i make some cool shit too.
+cs & mathematics student -- graphics engineer. -------- i mostly keep assignments here, but i make some cool shit too.
