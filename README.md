@@ -5,6 +5,5 @@ I'm Radar (Ari), and I'm currently doing my bachelor's in Computer Science and M
 ## My Projects
 
 - Undergraduate Research: **The use of HPC Methods with Sparse Matrices via GLS Models of Pairwise Comparisons**.
-- My website
-- Sticky tabs
-- Custom Floorplan Tools and TGML Creation Software (Not allowed to show this one sry </3).
+- Hytale Mods/Plugins
+- A couple cool lil application type thingies
