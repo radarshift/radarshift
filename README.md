@@ -5,5 +5,6 @@ I'm Radar (Ari), and I'm currently doing my bachelor's in Computer Science and M
 ## My Projects
 
 - Undergraduate Research: **The use of HPC Methods with Sparse Matrices via GLS Models of Pairwise Comparisons**.
-- argno: **a non-intrusive process-based sticky notes app**
 - Hytale Mods/Plugins
+- argno
+- normls
