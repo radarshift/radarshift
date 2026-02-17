@@ -5,7 +5,6 @@ im radar, a graphics engineer, and student working on my b.a. in computer scienc
 ## projectoronis
 
 - undergraduate research: **The use of HPC Methods with Sparse Matrices via GLS Models of Pairwise Comparisons**.
-- breadcrumbs (repo-local waypoint system)
+- normls (web-based normal map gen)
 - Hytale Mods/Plugins
 - argno (notes app)
-- normls (web-based normal map gen)
